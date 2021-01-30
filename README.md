@@ -7,8 +7,14 @@ Analista Desenvolvedor na Iterative/ConectCar
 - 🔭 Atualmente trabalho com: C# e tecnologias Microsoft
 - 🌱 Atualmente estou aprendendo GoLang.
 
-<img src="https://github-readme-stats.vercel.app/api?username=jailtonjunior94&show_icons=true">
-
-<a href="https://github.com/jailtonjunior94/github-readme-stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailtonjunior94&layout=compact"/>
-</a>
+<center>
+<table>
+    <tr>
+       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jailtonjunior94&theme=buefy"/>
+       </td>
+        <td>
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailtonjunior94&hide=html&layout=compact&theme=buefy" />
+        </td>
+</tr>
+</table>
+</center>  
