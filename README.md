@@ -7,14 +7,6 @@ Analista Desenvolvedor na Iterative/ConectCar
 - 🔭 Atualmente trabalho com: C# e tecnologias Microsoft
 - 🌱 Atualmente estou aprendendo GoLang.
 
-<center>
-<table>
-    <tr>
-       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jailtonjunior94&theme=buefy"/>
-       </td>
-        <td>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailtonjunior94&hide=html&layout=compact&theme=buefy" />
-        </td>
-</tr>
-</table>
-</center>  
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=jailtonjunior94&theme=blue-green)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jailtonjunior94&theme=blue-green)](https://github.com/jailtonjunior94/github-readme-stats)
