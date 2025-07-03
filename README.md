@@ -1,6 +1,6 @@
 ### Eu sou [Jailton Junior!](https://www.jailtonjunior.com.br) 👋
 
-Analista programador com 9 anos de experiência em desenvolvimento de software, atualmente trabalho na Iterative/ConectCar em São Paulo, SP, em um projeto de transformação digital do Atendimento ao cliente. Trabalhei em projetos do seguimento bancário, fidelidade, seguros e atendimento.
+Analista programador com 10 anos de experiência em desenvolvimento de software, atualmente trabalho na Iterative/ConectCar em São Paulo, SP, em um projeto de transformação digital do Atendimento ao cliente. Trabalhei em projetos do seguimento bancário, fidelidade, seguros e atendimento.
 
 Graduado em Análise/Desenvolvimento de Sistemas pela Universidade Paulista (UNIP) e MBA Arquitetura de Soluções pela FIAP.
 
